@@ -44,3 +44,4 @@ the puppy that was just created.
 6. Add a link on the homepage to the new puppy form.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-basic-forms-lab'>Sinatra Basic Forms Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Sinatra Basic Forms Lab</p>
